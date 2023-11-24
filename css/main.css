@@ -1,6 +1,40 @@
 .nav-menu {
     text-align: right;
   }
-  .nav-spacing {
-    margin: 0 0 0 10px;
-  }
+.nav-spacing {
+  margin: 0 0 0 10px;
+}
+.image-link{
+  text-decoration: none;
+}
+.header-title{
+  text-align: center;
+  margin: 0 0 80px;
+}
+.header-child{
+  text-align: center;
+}
+.img-whales {
+  display: block;
+  margin: 0 auto;
+}
+.body-main {
+  width: 560px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafacc;
+}
+.img-book {
+  float: left;
+  margin: 0 40px 0 0;
+}
+.emphasis {
+  font-style: italic;
+  font-size: 20px;
+}
+.emphasis-child{
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #cccccc;
+}
